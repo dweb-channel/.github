@@ -1,28 +1,15 @@
-## 这是一个学习小组 👋
+## do we web 👋
 
+This is an open collaborative organization, where every time you submit something, it will motivate your partner to progress together.
 
+This organization is extremely radical, we recommend using more modern and challenging solutions when solving problems. This way, when you discover the problem again, you can dive into the project and contribute, rather than just constantly asking for feedback from the community.
 
-**主要目的:**
+Also, this organization has no language, national, religious, or skin color restrictions, as these will not exist on a universal scale(🚀).
 
-- 🙋‍♀️ Fork一些期望更新的项目库
-- 🌈 上传一些学习笔记
-- 👩‍💻 rust学习小组
-- 🍿 golang学习小组
-- 🧙 C#学习小组
-- 🌽 typescript学习小组
+If you want to join us in learning, all you need to do is confirm that your GitHub username matches your interest. Simply send it to doweweb@gmail.com.
 
-想加入我们一起学习，请发送您的github用户名，或者邮箱到water_bang@163.com。
+On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives.
 
+-- Carl Kaggen
 
-This is a study group 👋
-
-Main purposes:
-
-- 🙋‍♀️ Fork some project repositories that are expected to be updated
-- 🌈 Upload some study notes
-- 👩‍💻 Rust study group
-- 🍿 Golang study group
-- 🧙 C# study group
-- 🌽 typescript study group
-
-If you want to join us in learning, please send your GitHub username or email to water_bang@163.com.
+![earth](https://github.com/user-attachments/assets/cce6ee9d-b062-496c-86a9-5b5540fb7d3b)
